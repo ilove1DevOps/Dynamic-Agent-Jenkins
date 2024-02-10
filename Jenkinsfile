@@ -5,7 +5,10 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                sh 'nginx -v'
+                sh '''
+                    nginx -v
+                    sleep 10
+                   '''
             }
         }
     }
