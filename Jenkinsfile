@@ -1,11 +1,5 @@
-//library identifier: 'jenkins-shared-library-directory@main'
-
 pipeline {
-    agent {
-        docker {
-            image 'nginx'
-        }
-    }
+    agent any
     stages {
         stage('Test') {
             steps {
