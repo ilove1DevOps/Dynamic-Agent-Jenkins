@@ -19,6 +19,10 @@ Open the terminal on the local and run ``` sudo usermod -a -G docker jenkins```
 ![image](https://github.com/ilove1DevOps/Dynamic-Agent-Jenkins/assets/128630024/f67af659-9605-40a6-bacb-fa1f0701790f)
 ![image](https://github.com/ilove1DevOps/Dynamic-Agent-Jenkins/assets/128630024/46f9a20f-fa73-4955-9372-2bbec496b1c9)
 
+# Step 08:
+![image](https://github.com/ilove1DevOps/Dynamic-Agent-Jenkins/assets/128630024/89d6c367-2692-4231-bd4c-dfdb0fcff69f)
+
+
 
 
 
