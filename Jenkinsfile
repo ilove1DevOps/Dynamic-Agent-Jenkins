@@ -1,4 +1,4 @@
-library identifier: 'jenkins-shared-library-directory@main'
+//library identifier: 'jenkins-shared-library-directory@main'
 
 pipeline {
     agent {
