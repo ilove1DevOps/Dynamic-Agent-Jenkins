@@ -1,3 +1,4 @@
+@Library("hello_world") _ 
 pipeline {
     agent any
     stages {
